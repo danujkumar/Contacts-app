@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DB_Demo</string>
+    <string name="app_title">DAKS Contacts</string>
+    <string name="contacts_name">Name</string>
+    <string name="contacts_name_hint">Please enter your name here</string>
+    <string name="contacts_phone">Phone no. </string>
+    <string name="contacts_phone_hint">Please enter your phone number here</string>
+    <string name="save_button">Save Contact</string>
+    <string name="save_failed">Contact name or phone no. can\'t be left blank.</string>
+    <string name="save_successful">Contact name saved successfully.</string>
+    <string name="fetch_button">Show Contact</string>
+    <string name="update_button">Update Contact</string>
+    <string name="delete_button">Delete Contact</string>
+    <string name="update_message">"The selected contact has been updated successfully."</string>
+    <string name="delete_message">The following contacts deleted successfully.</string>
+    <string name="contacts_list">All Saved Contacts are here</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="user_name">Contacts Update</string>
+    <string name="current_name">Current Name : </string>
+    <string name="current_phone">Current Phone No. </string>
+    <string name="new_name">Type the new name here : </string>
+    <string name="new_phone">Type the new phone no. here </string>
+</resources>
